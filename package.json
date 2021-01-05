@@ -1,0 +1,18 @@
+{
+  "name": "discord-memes",
+  "version": "1.0.5",
+  "description": "Un módulo para hacer memes para tu bot de discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [
+    "memes",
+    "discord",
+    "Discord-Memes",
+    "Bot discord"
+  ],
+  "author": "elpepe_",
+  "license": "MIT"
+}
