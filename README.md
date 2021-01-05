@@ -43,5 +43,4 @@ client.login('token');
 `memes.videosIngles()` retorna videos de memes en ingles
 
 # Github
-
-[Github](https://github.com/Dylan-Pro/DiscordMemes)
+Aqui estas leyendo el github!
