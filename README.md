@@ -38,7 +38,7 @@ client.login('token');
 
 `memes.videosEspañol()` retorna videos de memes en español
 
-`deTodoEspañol()` retorna de todo (videos e imagenes) en español
+`memes.deTodoEspañol()` retorna de todo (videos e imagenes) en español
 
 # Github
 Este es el github!
