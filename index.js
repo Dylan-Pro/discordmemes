@@ -31,8 +31,27 @@ function imagenesEspañol() {
         "https://cdn.discordapp.com/attachments/792519367132708875/796033341370662933/Captura_de_Pantalla_2021-01-05_a_las_12.12.12.png",
         "https://cdn.discordapp.com/attachments/792519367132708875/796034970337542204/5980d58640a45.png",
         "https://cdn.discordapp.com/attachments/772336555628953610/796373602466922536/ErBMxWRXcAc68WI.png",
-        "https://i.redd.it/icfyd5ihie061.jpg"
+        "https://i.redd.it/icfyd5ihie061.jpg",
+        "https://cdn.discordapp.com/attachments/385837258768515083/796566025088794634/IMG_20210106_194936.jpg",
+        "https://cdn.discordapp.com/attachments/385837258768515083/796527461625233438/aaz6s.jpg",
+        "https://cdn.discordapp.com/attachments/792519367132708875/796747729257889843/memes-feliz-2019_1.png",
+        "https://cdn.discordapp.com/attachments/792519367132708875/796748451815358484/JGLQVNNDFNE6VPMTAXYBFWLYCE.png",
+        "https://cdn.discordapp.com/attachments/792519367132708875/796748540835266601/memes-graciosos-de-amor.png",
+        "https://cdn.discordapp.com/attachments/792519367132708875/796749225055485952/40cde932e17daffc7ccce97d7841bceb.png",
+        "https://cdn.discordapp.com/attachments/410197118263754753/567917758210113551/5cb66c8218c7e.png",
+        "https://cdn.discordapp.com/attachments/792519367132708875/796749564253700116/Captura_de_Pantalla_2021-01-07_a_las_11.38.09.png",
+        "https://cdn.discordapp.com/attachments/772336555628953610/797463125497479198/cucarachas.png",
+        "https://cdn.discordapp.com/attachments/772336555628953610/797463086758887434/cada_ves_que.png",
+        "https://cdn.discordapp.com/attachments/772336555628953610/797462835054772294/tutorial_para_dejar_de_ser.png",
+        "https://cdn.discordapp.com/attachments/764922241803878430/797433505163509770/FB_IMG_1594446560480.jpg",
+        "https://cdn.discordapp.com/attachments/536338240031031333/797115904634388500/IMG-20201230-WA0706.jpg",
+        "https://cdn.discordapp.com/attachments/536338240031031333/796924037510070302/FB_IMG_1610063318873.jpg",
+        "https://cdn.discordapp.com/attachments/536338240031031333/796751144767586384/FB_IMG_1610019123971.jpg",
+        "https://cdn.discordapp.com/attachments/536338240031031333/796727636088586250/C9-1ZI-XoAI24z3.png",
+        "https://cdn.discordapp.com/attachments/536338240031031333/795458642664620062/e8a85bdbea9f1fbd20a6c86ce2f58546.jpg",
+        "https://cdn.discordapp.com/attachments/536338240031031333/795369765177786389/FB_IMG_1609701293770.jpg"
     ];
+
 
     /**
     * Memes de imagenes en español
@@ -63,13 +82,20 @@ function videosEspañol() {
         "https://cdn.discordapp.com/attachments/765606729526280212/794767098655670272/video0-4-2.mp4",
         "https://cdn.discordapp.com/attachments/792537650895781918/794978133798420480/VID_20210102_013232.mp4",
         "https://cdn.discordapp.com/attachments/752941675868848128/767273460165640212/When_two_rocks_look_identical360P_1-2-1.mp4",
-        "https://cdn.discordapp.com/attachments/410197118263754753/722941814281339021/Putin_caminando.mp4",
         "https://cdn.discordapp.com/attachments/410197118263754753/715467196574203964/cerraelorto.mp4",
         "https://cdn.discordapp.com/attachments/536338240031031333/796092364208603156/119985591_802112317269709_5086461620556041486_n.mp4",
         "https://cdn.discordapp.com/attachments/789532336881401857/791747030531178536/ves_maschina.mp4",
         "https://cdn.discordapp.com/attachments/792519367132708875/796392132981162034/Troleo_Kronk_Full_HD_4k_1080p_60fps.mp4.mp4",
         "https://cdn.discordapp.com/attachments/772336555628953610/796361948366635008/6420ffad42dcf9f2c76462e14d7842d9.mp4",
-        "https://cdn.discordapp.com/attachments/385837258768515083/796292183011098634/lego.mp4"
+        "https://cdn.discordapp.com/attachments/676039897584369664/795022810795081768/VID_35030503_170357_530.mp4",
+        "https://cdn.discordapp.com/attachments/385837258768515083/796503319899275284/Angry_German_Kids_dad_Harold_Slikk_Original_VideoDownload-1.mp4",
+        "https://cdn.discordapp.com/attachments/410197118263754753/728136196047241256/aa7284290f986c74ed00ec28939mp4.mp4",
+        "https://cdn.discordapp.com/attachments/536338240031031333/797117562717995028/JAJA_NOPOR_dswddaswdsawdas.mp4",
+        "https://cdn.discordapp.com/attachments/536338240031031333/797100415380488252/magarukun_1346312228220276736480P_1.mp4",
+        "https://cdn.discordapp.com/attachments/536338240031031333/796806346351312976/XD_pedo.mp4",
+        "https://cdn.discordapp.com/attachments/536338240031031333/796548113593794580/video0-47.mp4",
+        "https://cdn.discordapp.com/attachments/536338240031031333/796439653371609108/5_5_PATATA_SONIC_LEGO360P_1.mp4",
+        "https://cdn.discordapp.com/attachments/536338240031031333/796060523874484224/trolleo_benson360P_1.mp4"
     ];
     /**
      * Memes de videos en español
@@ -111,6 +137,24 @@ function deTodoEspañol() {
         "https://cdn.discordapp.com/attachments/792519367132708875/796034970337542204/5980d58640a45.png",
         "https://cdn.discordapp.com/attachments/772336555628953610/796373602466922536/ErBMxWRXcAc68WI.png",
         "https://i.redd.it/icfyd5ihie061.jpg",
+        "https://cdn.discordapp.com/attachments/385837258768515083/796566025088794634/IMG_20210106_194936.jpg",
+        "https://cdn.discordapp.com/attachments/385837258768515083/796527461625233438/aaz6s.jpg",
+        "https://cdn.discordapp.com/attachments/792519367132708875/796747729257889843/memes-feliz-2019_1.png",
+        "https://cdn.discordapp.com/attachments/792519367132708875/796748451815358484/JGLQVNNDFNE6VPMTAXYBFWLYCE.png",
+        "https://cdn.discordapp.com/attachments/792519367132708875/796748540835266601/memes-graciosos-de-amor.png",
+        "https://cdn.discordapp.com/attachments/792519367132708875/796749225055485952/40cde932e17daffc7ccce97d7841bceb.png",
+        "https://cdn.discordapp.com/attachments/410197118263754753/567917758210113551/5cb66c8218c7e.png",
+        "https://cdn.discordapp.com/attachments/792519367132708875/796749564253700116/Captura_de_Pantalla_2021-01-07_a_las_11.38.09.png",
+        "https://cdn.discordapp.com/attachments/772336555628953610/797463125497479198/cucarachas.png",
+        "https://cdn.discordapp.com/attachments/772336555628953610/797463086758887434/cada_ves_que.png",
+        "https://cdn.discordapp.com/attachments/772336555628953610/797462835054772294/tutorial_para_dejar_de_ser.png",
+        "https://cdn.discordapp.com/attachments/764922241803878430/797433505163509770/FB_IMG_1594446560480.jpg",
+        "https://cdn.discordapp.com/attachments/536338240031031333/797115904634388500/IMG-20201230-WA0706.jpg",
+        "https://cdn.discordapp.com/attachments/536338240031031333/796924037510070302/FB_IMG_1610063318873.jpg",
+        "https://cdn.discordapp.com/attachments/536338240031031333/796751144767586384/FB_IMG_1610019123971.jpg",
+        "https://cdn.discordapp.com/attachments/536338240031031333/796727636088586250/C9-1ZI-XoAI24z3.png",
+        "https://cdn.discordapp.com/attachments/536338240031031333/795458642664620062/e8a85bdbea9f1fbd20a6c86ce2f58546.jpg",
+        "https://cdn.discordapp.com/attachments/536338240031031333/795369765177786389/FB_IMG_1609701293770.jpg",
         "https://cdn.discordapp.com/attachments/765615121669292103/787148991493046312/ough.mp4",
         "https://cdn.discordapp.com/attachments/765615121669292103/783048265797074954/Venezuela-1.mp4",
         "https://cdn.discordapp.com/attachments/765615121669292103/783045746378407976/video0-45.mp4",
@@ -129,22 +173,49 @@ function deTodoEspañol() {
         "https://cdn.discordapp.com/attachments/765606729526280212/794767098655670272/video0-4-2.mp4",
         "https://cdn.discordapp.com/attachments/792537650895781918/794978133798420480/VID_20210102_013232.mp4",
         "https://cdn.discordapp.com/attachments/752941675868848128/767273460165640212/When_two_rocks_look_identical360P_1-2-1.mp4",
-        "https://cdn.discordapp.com/attachments/410197118263754753/722941814281339021/Putin_caminando.mp4",
         "https://cdn.discordapp.com/attachments/410197118263754753/715467196574203964/cerraelorto.mp4",
         "https://cdn.discordapp.com/attachments/536338240031031333/796092364208603156/119985591_802112317269709_5086461620556041486_n.mp4",
         "https://cdn.discordapp.com/attachments/789532336881401857/791747030531178536/ves_maschina.mp4",
         "https://cdn.discordapp.com/attachments/792519367132708875/796392132981162034/Troleo_Kronk_Full_HD_4k_1080p_60fps.mp4.mp4",
         "https://cdn.discordapp.com/attachments/772336555628953610/796361948366635008/6420ffad42dcf9f2c76462e14d7842d9.mp4",
-        "https://cdn.discordapp.com/attachments/385837258768515083/796292183011098634/lego.mp4"
+        "https://cdn.discordapp.com/attachments/676039897584369664/795022810795081768/VID_35030503_170357_530.mp4",
+        "https://cdn.discordapp.com/attachments/385837258768515083/796503319899275284/Angry_German_Kids_dad_Harold_Slikk_Original_VideoDownload-1.mp4",
+        "https://cdn.discordapp.com/attachments/410197118263754753/728136196047241256/aa7284290f986c74ed00ec28939mp4.mp4",
+        "https://cdn.discordapp.com/attachments/536338240031031333/797117562717995028/JAJA_NOPOR_dswddaswdsawdas.mp4",
+        "https://cdn.discordapp.com/attachments/536338240031031333/797100415380488252/magarukun_1346312228220276736480P_1.mp4",
+        "https://cdn.discordapp.com/attachments/536338240031031333/796806346351312976/XD_pedo.mp4",
+        "https://cdn.discordapp.com/attachments/536338240031031333/796548113593794580/video0-47.mp4",
+        "https://cdn.discordapp.com/attachments/536338240031031333/796439653371609108/5_5_PATATA_SONIC_LEGO360P_1.mp4",
+        "https://cdn.discordapp.com/attachments/536338240031031333/796060523874484224/trolleo_benson360P_1.mp4"
+    ];
+
+
+    /**
+    * Memes de imagenes en español
+    * @returns {string}
+    */
+
+    return memes[Math.floor(Math.random() * memes.length)];
+
+};
+
+function putin() {
+    let putinMemes = [
+        "https://cdn.discordapp.com/attachments/385837258768515083/796292183011098634/lego.mp4",
+        "https://cdn.discordapp.com/attachments/385837258768515083/796449925947850832/oil.mp4",
+        "https://cdn.discordapp.com/attachments/410197118263754753/722941814281339021/Putin_caminando.mp4",
+        "https://cdn.discordapp.com/attachments/792519367132708875/797426486860709898/pootin.mp4"
     ];
     /**
+     * Videos de putin en español
      * @returns {string}
      */
-    return memes[Math.floor(Math.random() * memes.length)];
+    return putinMemes[Math.floor(Math.random) * putinMemes.length];
 }
 
 module.exports = {
     imagenesEspañol,
     videosEspañol,
-    deTodoEspañol
+    deTodoEspañol,
+    putin
 };
