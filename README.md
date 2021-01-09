@@ -1,6 +1,6 @@
 # Discord Memes
 
-Discord-Memes es un modulo para hacer memes en tu bot de discord, tiene images español, videos español, videos ingles, e imagenes ingles!
+Discord-Memes es un modulo para hacer memes en tu bot de discord, tiene images español, videos español, de todo español, y putin!
 
 # Instalación
 
@@ -40,5 +40,8 @@ client.login('token');
 
 `memes.deTodoEspañol()` retorna de todo (videos e imagenes) en español
 
-# Github
-Este es el github!
+`memes.putin()` retorna videos de putin caminando en diferentes versiones
+
+# Links
+
+[**Discord server**](https://discord.gg/sRuTH454aB)
