@@ -45,5 +45,3 @@ client.login('token');
 # Links
 
 [**Discord server**](https://discord.gg/sRuTH454aB)
-
-[![Discord Server]("https://discord.com/widget?id=796762892489457714&theme=dark")]("https://discord.gg/https://discord.gg/sRuTH454aB")
