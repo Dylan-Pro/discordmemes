@@ -46,4 +46,4 @@ client.login('token');
 
 [**Discord server**](https://discord.gg/sRuTH454aB)
 
-<iframe src="https://discord.com/widget?id=796762892489457714&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+[![Discord Server]("https://discord.com/widget?id=796762892489457714&theme=dark")]("https://discord.gg/https://discord.gg/sRuTH454aB")
